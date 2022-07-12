@@ -4,13 +4,13 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ owner/propietario del bot  ⋅.━━━━ ⊰
 global.owner = [
-  ['56977774748', 'creador', true],
-  ['212614486339'],
-  ['50495745934'], //aqui cambia el numero por el tuyo
+  ['18078086864', 'creator', true],
+  ['917034953271'],
+  ['17027474649'], //aqui cambia el numero por el tuyo
 ]
 //aqui poner los numero premium 
-global.mods = [] 
-global.prems = ['56950377550'], 
+global.mods = ['18078086864'] 
+global.prems = ['18078086864'], 
 
 global.APIs = { // API Prefix.
   
@@ -67,33 +67,33 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'toma tu sticker'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.packname = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
+global.author = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UC9b3UIVnVb5eQt7_Y-Qz-3A'
+global.yt = 'https://youtube.com/channel'
 global.youtube = yt
 
-global.ig = ''
+global.ig = 'https://instagram.com/__akshay__ganz__?igshid=YmMyMTA2M2Y='
 global.gatadiosig = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = ''
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+global.nn = 'https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/Byyrc8RJnUkJw6vvUgsbDF'
+global.nnn = 'https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6'
 global.nnngrupo = nnn
 
-global.paypal = 'https://www.instagram.com/gata_dios  https://paypal.me/OficialGD'
+global.paypal = 'https://instagram.com/__akshay__ganz__?igshid=YmMyMTA2M2Y='
 global.donar = paypal
 
 
@@ -121,7 +121,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
 global.igfg = 'The Lolibot-MD'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
